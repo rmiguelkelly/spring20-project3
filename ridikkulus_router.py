@@ -40,6 +40,9 @@ class SimpleRouter(SimpleRouterBase):
     
     def sendPacket(self, packet, outIface):
         super().sendPacket(packet, outIface)
+      
+    def n(self):
+      pass
 
     ##############################################################################
     ######################### DO NOT EDIT THE REST ###############################
