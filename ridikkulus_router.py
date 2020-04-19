@@ -38,15 +38,6 @@ class SimpleRouter(SimpleRouterBase):
             print("Received packet, but interface is unknown, ignoring", file=sys.stderr)
             return
     
-        #
-        # FILL IN THE REST
-        #
-    
-    #
-    # USE THIS METHOD TO SEND PACKETS OUT
-    #
-    # Call this method to send packet \p packet from the router on interface \p outIface
-    #
     def sendPacket(self, packet, outIface):
         super().sendPacket(packet, outIface)
 
