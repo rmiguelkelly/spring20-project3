@@ -23,8 +23,4 @@ This implementation is based on the original code for Stanford CS144 lab3 (https
 
 ## TODO
 
-    ###########################################################
-    ##                                                       ##
-    ## REPLACE CONTENT OF THIS FILE WITH YOUR PROJECT REPORT ##
-    ##                                                       ##
-    ###########################################################
+Ronan Kelly - 5864879
